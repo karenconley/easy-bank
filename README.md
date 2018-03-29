@@ -2,7 +2,7 @@
 
 Easy Bank es una app móvil perteneciente al Banco del País, que permite a sus usuarios “Millennials” crear una cuenta bancaria 100% digital, sin plástico, ni cobros de mantención, ni papeleos para acceder a ella.
 
-![app](https://user-images.githubusercontent.com/32284471/37967748-afd3925e-31a2-11e8-91f9-354b715f974a.png)
+![app](https://user-images.githubusercontent.com/32284471/38090435-f20f9e78-3338-11e8-9810-13f35afdf02f.png)
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
