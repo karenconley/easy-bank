@@ -121,10 +121,7 @@ De acuerdo a todas estas inquietudes, nuestro Producto Mínimo Viable debe:
 
 ## Testing
 
-![Testing](assets/img/testing-1.jpg)
-![Testing](assets/img/testing-2.jpg)
-![Testing](assets/img/testing-3.jpg)
-![Testing](assets/img/testing-4.jpg)
+![Testing](assets/img/testing.jpg)
 
 ## Prototipo
 
