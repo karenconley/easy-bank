@@ -2,7 +2,7 @@
 
 Easy Bank es una app móvil perteneciente al Banco del País, que permite a sus usuarios “Millennials” crear una cuenta bancaria 100% digital, sin plástico, ni cobros de mantención, ni papeleos para acceder a ella.
 
-![prototipo](assets/img/app.png)
+![app](https://user-images.githubusercontent.com/32284471/38090435-f20f9e78-3338-11e8-9810-13f35afdf02f.png)
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
@@ -32,7 +32,6 @@ Iterar y concluir
 # II. Kick-off
 
 El squad estaba conformado por 6 integrantes. Comenzamos el reto simulando una reunión de Kick Off, analizando quiénes podrían ser nuestros Stakeholders y así poder definir los objetivos de la empresa.
-
 
 - **Subgerencia Experiencia Cliente**
 
@@ -98,7 +97,6 @@ Nicolás, de 28 años, manifiesta su descontento con estas palabras:
  
 Muchos de los encuestados debían pagar por cada vez que transferían a un tercero. Además la plataforma para transferir no era confiable, según sus propias palabras esta sección se pegaba, se caía o no era clara. Es una queja generalizada y por ello lo representamos en un Customer Journey Map:
 
-
 ## Diagrama de Afinidad
 
 Se organizó en un mapa de afinidad las inquietudes en común de los usuarios de bancos, cuyas frustraciones principales son cobros por mantención, por transferencia y por giros, trámites engorrosos y requisitos que no podían cumplir para abrir una cuenta, y plataformas digitales complicadas e ineficientes.
@@ -128,10 +126,6 @@ De acuerdo a todas estas inquietudes, nuestro Producto Mínimo Viable debe:
 ![Testing](assets/img/testing-3.jpg)
 ![Testing](assets/img/testing-4.jpg)
 
-
-
-
 ## Prototipo
 
 ![Prototipo](assets/img/app.png)
-
