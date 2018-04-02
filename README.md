@@ -55,17 +55,17 @@ sólo un 3% no pertenece a ningún banco, y su motivo principal es el descontent
 
 Además, la gran mayoría lleva 2 años o más, por lo que da a entender que a pesar de que puedan tener problemas o diferencias con su banco, buscan la estabilidad.
 
-A la hora de preguntarles "¿por qué escogiste el banco donde estás actualmente", la respuesta principal está directamente relacionada con una opción más accesible: 
+A la hora de preguntarles "¿por qué escogiste el banco donde estás actualmente", la respuesta principal está directamente relacionada con una opción más asequible: 
 
-- "El sueldo que piden como requisito para crear una cuenta corriente es muy alto"
-- "Mi banco actual fue el único que me aceptó cuando empecé a trabajar y no tenía liquidaciones"
-- "Lo escogí por las facilidades para acceder a él"
+- *"El sueldo que piden como requisito para crear una cuenta corriente es muy alto"*
+- *"Mi banco actual fue el único que me aceptó cuando empecé a trabajar y no tenía liquidaciones"*
+- *"Lo escogí por las facilidades para acceder a él"*
 
 Ante los reclamos, el principal es el de los cobros excesivos:
 
-- "Que no cobren por todo, o sea, revisar saldo, girar o transferir: todo tiene un costo"
-- "No deberían cobrar por giros"
-- "La Cuenta Rut, que es lo más accesible, te cobra mucho: por sacar, por hacer transferencia, por todo"
+- *"Que no cobren por todo, o sea, revisar saldo, girar o transferir: todo tiene un costo"*
+- *"No deberían cobrar por giros"*
+- *"La Cuenta Rut, que es lo más asequible, te cobra mucho: por sacar, por hacer transferencia, por todo"*
 
 ## Entrevistas
 
@@ -104,17 +104,21 @@ Conocimos el caso de Nicolás, de 28 años, que no pertenece actualmente a ning�
 
 ## Diagrama de Afinidad
 
-Se organizó en un mapa de afinidad las inquietudes en común de los usuarios de bancos, cuyas frustraciones principales son cobros por mantención, por transferencia y por giros, trámites engorrosos y requisitos que no podían cumplir para abrir una cuenta, y plataformas digitales complicadas e ineficientes.
+Se organizó en un diagrama de afinidad con los reclamos de los usuarios y las motivaciones. Sus frustraciones principales son cobros por mantención, por transferencia y por giros, trámites engorrosos, requisitos que no pueden cumplir para abrir una cuenta, y plataformas digitales complicadas e ineficientes.
 
 ![Afinidad](assets/img/Diagrama-de-Afinidad.jpg)
 
 ## Customer Journey Map
 
-![CJM](assets/img/Customer-Journey-Map-Transferir.jpg)
+Encontramos dos puntos críticos. El primero ocurría a la hora de solicitar una cuenta: los estrictos requisitos y la gran cantidad de documentación que se pide, hacen que muchas personas se frustren al no calzar con los estándares que pide el banco, ya sea porque no cumplen con lo que se pide o por falta de documentación y excesivo papeleo. 
 
-Pero la principal “mala experiencia” ocurría a la hora de solicitar una cuenta: los estrictos requisitos y la gran cantidad de documentación que se pide hacían que muchas personas se frustraran al no calzar con los estándares que pedía el banco, ya sea porque no cumplían con lo que se pedía o por falta de documentación y excesivo papeleo:
+Finalmente debían quedarse con la institución que los aceptara, y no porque ellos la hayan escogido libremente.
 
 ![CJM](assets/img/Customer-Journey-Map-Cuenta.jpg)
+
+El segundo punto crítico ocurre a la hora de hacer transferencias electrónicas, por los cobros y por inestabilidad de las apps.
+
+![CJM](assets/img/Customer-Journey-Map-Transferir.jpg)
 
 # IV. MVP
  
@@ -124,10 +128,17 @@ De acuerdo a todas estas inquietudes, nuestro Producto Mínimo Viable debe:
 3. Libre de tarjetas. Nuestro producto es 100% digital
 4. Una plataforma amigable, con información clara, que se dirija en un lenguaje sencillo y cercano.
 
+Con respecto al requerimiento de ser 100% digital, investigando llegamos a la tecnología NFC (Near Field Communications), que permite pagos con el smartphone, en un intercambio de datos a alta velocidad y corta distancia (no más de 15-20 cms). Además está presente en teléfonos de gama media y baja, por lo que es bastante asequible.
+
+
 ## Testing
+
+Realizamos testeos con usuarios, correcciones y testeos nuevamente.
 
 ![Testing](assets/img/testing.jpg)
 
 ## Prototipo
+
+El resultado final del prototipo está disponible en el siguiente link: https://marvelapp.com/144jgb7g/screen/39115372
 
 ![Prototipo](assets/img/app.png)
