@@ -5,11 +5,11 @@ Easy Bank es una app móvil perteneciente a un banco nacional de gran trayectori
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
-# I. El reto: Nuevo banco digital para millenials
+## I. El reto: Nuevo banco digital para millenials
 
 El desafío consistía en que un banco ficticio muy importante y de muchos años, llamado Banco del País, está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials. Es nuestra primera semana en la empresa y nos han pedido que nos encarguemos de esa investigación y crear un prototipo de la nueva banca digital - basado en el journey más crítico que se encuentre en la investigación.
 
-# II. Kick-off
+## II. Kick-off
 
 Comenzamos el reto simulando una reunión de Kick Off, analizando quiénes podrían ser nuestros Stakeholders y hacerles las preguntas correspondientes para definir los objetivos de la empresa.
 
@@ -32,15 +32,15 @@ Comenzamos el reto simulando una reunión de Kick Off, analizando quiénes podr�
 - ¿En cuánto tiempo estimado podrían realizar un proyecto de esta magnitud?
 - ¿Hay maneras de optimizar aún más la plataforma actual o es necesario un cambio radical en esta?
 
-## Business Model Canvas
+### Business Model Canvas
 
 Realizamos un Business Model Canvas para comprender el negocio y determnar los objetivos de este.
 
 ![BMC](assets/img/Business-Model-Canvas.jpg)
 
-# III. Research
+## III. Research
 
-## Encuestas
+### Encuestas
 
 De acuerdo al reto planteado, la primera etapa de investigación fue un research cuantitativo al público objetivo donde nos hemos enfocado. Realizamos encuestas online mediante Google Forms para entender algunos comportamientos de los usuarios de banco.
  
@@ -66,7 +66,7 @@ Ante los reclamos, el principal es el de los cobros excesivos:
 - *"No deberían cobrar por giros"*
 - *"La Cuenta Rut, que es lo más asequible, te cobra mucho: por sacar, por hacer transferencia, por todo"*
 
-## Entrevistas
+### Entrevistas
 
 Entrevistamos gente de manera presencial, y ésta fue la guía de preguntas:
 
@@ -101,13 +101,13 @@ Conocimos el caso de Nicolás, de 28 años, que no pertenece actualmente a ning�
 
 *Por eso no tengo tarjeta ni por eso estoy en un banco.*
 
-## Diagrama de Afinidad
+### Diagrama de Afinidad
 
 Se organizó en un diagrama de afinidad con los reclamos de los usuarios y las motivaciones. Sus frustraciones principales son cobros por mantención, por transferencia y por giros, trámites engorrosos, requisitos que no pueden cumplir para abrir una cuenta, y plataformas digitales complicadas e ineficientes.
 
 ![Afinidad](assets/img/Diagrama-de-Afinidad.jpg)
 
-## Customer Journey Map
+### Customer Journey Map
 
 Encontramos dos puntos críticos. El primero ocurría a la hora de solicitar una cuenta: los estrictos requisitos y la gran cantidad de documentación que se pide, hacen que muchas personas se frustren al no calzar con los estándares que pide el banco, ya sea porque no cumplen con lo que se pide o por falta de documentación y excesivo papeleo. 
 
@@ -119,7 +119,7 @@ El segundo punto crítico ocurre a la hora de hacer transferencias electrónicas
 
 ![CJM](assets/img/Customer-Journey-Map-Transferir.jpg)
 
-# IV. MVP
+## IV. MVP
  
 De acuerdo a todas estas inquietudes, nuestro Producto Mínimo Viable debe:
 1. Permitir el acceso a cuenta a todos, mayores de 18 años, sin requisitos excluyentes, ni documentos, ni trámites, ya que eso es lo que aleja a la gente y a gran parte los deja fuera por no cumplir con lo que se les pide.
@@ -129,13 +129,13 @@ De acuerdo a todas estas inquietudes, nuestro Producto Mínimo Viable debe:
 
 Con respecto a la tecnología NFC (Near Field Communications), ésta permite pagos con el smartphone, en un intercambio de datos a alta velocidad y corta distancia (no más de 15-20 cms). Además está presente en teléfonos de gama media y baja, por lo que es bastante asequible.
 
-## Testing
+### Testing
 
 Realizamos testeos con usuarios, correcciones y testeos nuevamente.
 
 ![Testing](assets/img/testing.jpg)
 
-## Prototipo
+### Prototipo
 
 El resultado final del prototipo está disponible en el siguiente link: https://marvelapp.com/144jgb7g/screen/39115372
 
