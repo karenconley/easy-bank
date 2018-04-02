@@ -125,11 +125,10 @@ El segundo punto crítico ocurre a la hora de hacer transferencias electrónicas
 De acuerdo a todas estas inquietudes, nuestro Producto Mínimo Viable debe:
 1. Permitir el acceso a cuenta a todos, mayores de 18 años, sin requisitos excluyentes, ni documentos, ni trámites, ya que eso es lo que aleja a la gente y a gran parte los deja fuera por no cumplir con lo que se les pide.
 2. Permitir a los clientes realizar transferencias y giros sin cobros de por medio
-3. Libre de tarjetas. Nuestro producto es 100% digital
+3. Libre de tarjetas. Nuestro producto es 100% digital. Para ello integramos el pago vía NFC y el giro de dinero en cajeros y locales adheridos (ej: Caja Vecina) mediante un código temporal.
 4. Una plataforma amigable, con información clara, que se dirija en un lenguaje sencillo y cercano.
 
-Con respecto al requerimiento de ser 100% digital, investigando llegamos a la tecnología NFC (Near Field Communications), que permite pagos con el smartphone, en un intercambio de datos a alta velocidad y corta distancia (no más de 15-20 cms). Además está presente en teléfonos de gama media y baja, por lo que es bastante asequible.
-
+Con respecto a la tecnología NFC (Near Field Communications), ésta permite pagos con el smartphone, en un intercambio de datos a alta velocidad y corta distancia (no más de 15-20 cms). Además está presente en teléfonos de gama media y baja, por lo que es bastante asequible.
 
 ## Testing
 
