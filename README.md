@@ -1,5 +1,4 @@
 # Easy Bank
-
 Easy Bank es una app móvil perteneciente a un banco nacional de gran trayectoria, que permite a sus usuarios “Millennials” tener una cuenta bancaria 100% digital, sin plástico ni trámites para acceder a ella.
 
 ![proyecto-presentacion](https://user-images.githubusercontent.com/32284471/38179986-5567c810-35ff-11e8-8246-47712b6394a1.jpg)
